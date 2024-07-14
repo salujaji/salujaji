@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salujaji
-- 👀 I’m interested in software development/web development and networking
-- 🌱 I’m currently learning python, R, and networking 
+- 👀 I’m interested in software development/web development and datascience
+- 🌱 I’m currently learning python, R, and datascience
 - 💞️ I’m looking to collaborate on web development 
 
 <!---
